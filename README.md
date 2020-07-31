@@ -1,4 +1,4 @@
-# Type Ahead
+# Hold Shift to Check Checkboxes
 
 Day 10 of Javascript30 by WesBos. Made a To-do-Checklist, where you can check multiple checkboxes while holding down shift.
 
